@@ -1,0 +1,8 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="1000" fill="white"/>
+<rect width="1000" height="1000" fill="#46C3DB"/>
+<rect x="216" y="362" width="700" height="100" fill="white"/>
+<path d="M84 462L244 462L244 256L84 462Z" fill="white"/>
+<rect x="784" y="638" width="700" height="100" transform="rotate(-180 784 638)" fill="white"/>
+<path d="M916 538L756 538L756 744L916 538Z" fill="white"/>
+</svg>
